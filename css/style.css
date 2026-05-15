@@ -1,0 +1,50 @@
+body {
+    background-color: #fff8f5;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    text-align: center;
+    color: #333;
+    margin: 20px;
+}
+
+
+h1 {
+    color: crimson;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 30px;
+}
+
+
+p {
+    font-size: 18px;
+}
+
+
+img {
+    width: 400px;
+    border-radius: 12px;
+    margin: 15px 0;
+}
+
+
+a {
+    color: purple;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-position: inside;
+    font-size: 18px;
+}
